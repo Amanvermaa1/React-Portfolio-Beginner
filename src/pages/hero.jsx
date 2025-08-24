@@ -1,0 +1,10 @@
+function Hero(){
+    return(
+        <div className="hero">
+            <h1>Hii , My name is Aman Verma</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam sapiente, similique quis fuga libero dignissimos consequatur ratione vero nisi assumenda. Deserunt rerum similique tempore alias odit, laboriosam culpa quae unde.</p>
+        </div>
+    )
+}
+
+export default Hero ;
