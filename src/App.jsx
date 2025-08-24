@@ -8,6 +8,7 @@ function App() {
       <Navbar />
       <Hero />
       <h1>hello , Aman</h1>
+      <h1>hello , Aman</h1>
     </div>
   );
 }
